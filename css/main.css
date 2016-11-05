@@ -71,7 +71,10 @@ button {
 	font-family: Typewriter, serif;
 }
 
-button:enabled {	
+button:enabled {
+	font-size: 140%;
+	color: #EEEEEE;
+	background-color: #221144;
 	box-shadow: 5px 5px 5px #333333;
 }
 
@@ -94,4 +97,13 @@ hr {
 	width: 800px;
 	height: 20px;
 	border: none !important;
+}
+
+.question {
+	font-size: 140%;
+	color: #221144;
+}
+
+.answers {
+	font-size: 120%;
 }

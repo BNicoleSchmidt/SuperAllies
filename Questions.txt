@@ -13,5 +13,11 @@ Are you from an upper class family?
 Are you percieved to be a Christian?
 Are you a natural born citizen or are you naturalized citizen?
 
-1, 2, 5, 11, 14
+1, 2, 5, 11, 
+
+Questions reordered for final result.
+
+
+Work Flow:
+	User takes quiz, gets results for power level. User then shown scenarios about different power levels. User led to second quiz based on what they learned about previous scenarios. Second results page gives super powers.
 
