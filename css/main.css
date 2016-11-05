@@ -91,6 +91,11 @@ footer {
 	padding: 10px;
 }
 
+img {
+	display: block;
+	margin: auto;
+}
+
 hr {
 	background-image: url("../assets/favicon.png");
 	background-repeat: repeat-x;
