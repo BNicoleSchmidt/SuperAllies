@@ -1,0 +1,17 @@
+Are you percieved to be white/caucasian?
+Are you male?
+Are you percieved to be cisgender?
+Are you straight?
+Are you able-bodied?
+Are you a legal resident of the US?
+Are you in an ideal age range for your industry?
+Are you NOT a mother?
+Are you NOT a caregiver?
+Do you have a college degree or higher?
+Do you make 70,000+?
+Are you from an upper class family?
+Are you percieved to be a Christian?
+Are you a natural born citizen or are you naturalized citizen?
+
+1, 2, 5, 11, 14
+

@@ -1,0 +1,97 @@
+@font-face {
+    font-family: Typewriter;
+    src: url("../assets/TravelingTypewriter.ttf") format('truetype');
+}
+
+body {
+	background-color: #221144;
+	font-family: Typewriter, serif;
+}
+
+header, footer {
+	display: block;
+}
+
+#wrapper {
+	width: 80%;
+	min-width: 1248px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #DDDDDD;
+	box-shadow: 5px 5px 5px #888888;
+	opacity: 0.98;
+	padding: .5em;
+}
+
+header {
+	padding-left: 1em;
+	padding-right: 1em;
+	background-color: #110033;
+	color: #FFFFFF;
+}
+
+header img {
+	display: block;
+	height: 284px;
+	width: 957px;
+	margin: auto;
+}
+
+main {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+main p::first-letter { 
+	color: #665588;
+	font-style: bold;
+    font-size: 170%;
+    font-weight: bold;
+}
+
+main h1 {
+	color: #665588;
+}
+
+table {
+	background-color: #EEEEEE;
+	border-spacing: 4px;
+	padding: 2px;
+	border: 2px #665588 solid;
+}
+
+button {
+	border-radius: 20px;
+	width: 15em;
+	height: 2.5em;
+	font-family: Typewriter, serif;
+}
+
+button:enabled {	
+	box-shadow: 5px 5px 5px #333333;
+}
+
+th {	
+	color: #665588;
+}
+
+footer {
+	margin: 40px 100px 0px 100px;
+	float: none;
+	clear: right;
+	clear: left;
+	text-align: center;
+	padding: 10px;
+}
+
+hr {
+	background-image: url("../assets/favicon.png");
+	background-repeat: repeat-x;
+	width: 800px;
+	height: 20px;
+	border: none !important;
+}
