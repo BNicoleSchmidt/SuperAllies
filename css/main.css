@@ -107,3 +107,9 @@ hr {
 .answers {
 	font-size: 120%;
 }
+
+.scenepic {
+	margin: auto;
+	display: block;
+	width: 500px;
+}
